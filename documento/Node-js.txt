@@ -1,0 +1,24 @@
+
+clone;pull atulaização;fetch buscando ;puch subir 
+merge duas pessoas fazendo projeto e precisa juntar a operações.
+fork 
+
+......................................
+////////////////////////
+
+13/04/2024
+
+
+
+git config --global user.name "jose.ccna"
+
+git config --global user.email jose.ccna@gmail.com
+
+Inicializar um repositório no Git
+git init 
+
+............................
+
+C:\Users\jose.fncarvalho1\Documents\Node.js_senac
+
+
