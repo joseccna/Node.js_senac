@@ -1,6 +1,6 @@
 var nota1 = 2
 var nota2 = 3
-var media =0
+var media = 0
 media = (nota1 + nota2)/2
 
 if (media >= 6){
