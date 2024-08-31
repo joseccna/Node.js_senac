@@ -1,16 +1,4 @@
-// var numero = 1
-// switch(numero){
-//     case 0:
-//         console.log('caso 0')
-//     case 1:
-//         console.log('caso 1')
-//         break
-//     case 2:
-//         console.log('caso 2')
-// }
-
-
-//Dia da semana com swicht case.
+Switch case selecionando os dias da semana.
 
 var dia = 7
 
@@ -40,3 +28,5 @@ switch(dia){
         console.log('Numero inválido')
 }
 
+
+........................................................
